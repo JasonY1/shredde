@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JasonY1/shredde",
   "dependencies": {
     "express": "^4.13.3",
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4"
   }
 }
