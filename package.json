@@ -1,0 +1,19 @@
+{
+  "name": "swolebits",
+  "version": "1.0.0",
+  "description": "Weight lifting app for fitbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonY1/shredde.git"
+  },
+  "author": "Jason Yi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasonY1/shredde/issues"
+  },
+  "homepage": "https://github.com/JasonY1/shredde"
+}
