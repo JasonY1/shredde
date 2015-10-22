@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JasonY1/shredde/issues"
   },
-  "homepage": "https://github.com/JasonY1/shredde"
+  "homepage": "https://github.com/JasonY1/shredde",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
